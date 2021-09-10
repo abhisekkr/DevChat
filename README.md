@@ -1,20 +1,37 @@
-# Getting Started with Create React App
+# Dev Chat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dev Chat is a highly scalable , low cost , and perfomant chat application , built on React for Frontend and Backend built on Firebase by Google , for Real time comunication and Media sharing.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
 
-### `npm start`
+## Application Links
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Deployed URL --> [https://dev-chat-by-abhisekkr.netlify.app/](https://dev-chat-by-abhisekkr.netlify.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+<b>Frontend</b>: ReactJS
+<br>
+<b>Styling</b>: CSS
+<br>
+<b>Database<b>: Cloud Firestore
+<br>
+<b> Authentication<b>: Google Auth
+<br>
+<b>Storage<b>: Firebase Storage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overall Functionality 
+- Create and Join Chat room with multiple User Functionality
+- Image, GIF sharing with Message 
+- Emoji Keyboard for Messages
+  
+## Upcoming Features
+- 1:1 Chat
+- Support to leave group
+- Starring Important Messages
+- Delete Message
+  
+***Glad to see you here! If liked , Do star the repo , THANK YOU !
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@abhisek-kumar&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/abhisek-kumar-a32677191/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@abbhisekk&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/abbhisekk/)
