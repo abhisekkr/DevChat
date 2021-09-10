@@ -31,6 +31,7 @@ Deployed URL --> [https://dev-chat-by-abhisekkr.netlify.app/](https://dev-chat-b
 - Support to leave group
 - Starring Important Messages
 - Delete Message
+- Editing of Personal Details like Profile pic,name.etc.
   
 ***Glad to see you here! If liked , Do star the repo , THANK YOU !
 
