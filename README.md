@@ -1,6 +1,6 @@
 # Dev Chat
 
-Dev Chat is a highly scalable , low cost , and perfomant chat application , built on React for Frontend and Backend built on Firebase by Google , for Real time comunication and Media sharing.
+Dev Chat is a highly scalable , low cost , and high perfomant chat application , built on React for Frontend and Backend built on Firebase by Google , for Real time communication and Media sharing.
 
 ## Project Overview
 
